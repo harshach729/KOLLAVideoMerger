@@ -1,0 +1,62 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+[Bb]in/
+[Oo]bj/
+publish/
+artifacts/
+
+# Test output
+TestResults/
+*.trx
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local configuration / secrets
+.env
+.env.*
+*.pfx
+*.key
+appsettings.Local.json
+
+# User media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mts
+*.m2ts
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.opus
+*.wma
+
+# Generated output
+output/
+outputs/
+temp/
+tmp/
+
+# FFmpeg binaries
+KOLLAVideoMerger/ffmpeg/bin/*.exe
