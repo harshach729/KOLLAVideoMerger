@@ -34,6 +34,12 @@ The project evolved beyond a simple FFmpeg wrapper as real-world testing exposed
 - ⛔ Cancel long-running processing and terminate the FFmpeg process tree
 - 🧹 Clean up temporary files and partial output on cancellation
 
+## Screenshots
+- `main-window.png`
+- `video-selection.png`
+- `audio-settings.png`
+- `merge-progress.png`
+
 ## Features
 
 ### Video Merging
