@@ -34,29 +34,6 @@ The project evolved beyond a simple FFmpeg wrapper as real-world testing exposed
 - ⛔ Cancel long-running processing and terminate the FFmpeg process tree
 - 🧹 Clean up temporary files and partial output on cancellation
 
-## Screenshots
-
-Add real screenshots to `screenshots/` before publishing.
-
-Recommended screenshots:
-
-- `main-window.png`
-- `video-selection.png`
-- `audio-settings.png`
-- `merge-progress.png`
-
-## Demo
-
-A short 45–75 second demo should show:
-
-1. Selecting a folder containing dash-cam videos
-2. Reviewing detected media metadata
-3. Selecting optional audio
-4. Configuring audio processing
-5. Starting a merge
-6. Watching real-time progress
-7. Showing the resulting MP4
-
 ## Features
 
 ### Video Merging
